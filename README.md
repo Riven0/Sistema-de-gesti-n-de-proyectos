@@ -1,1 +1,1 @@
-# Sistema-de-gesti-n-de-proyectos
+# Sistema-de-gestion-de-proyectos
